@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4235bd8-57a2-4be9-85ab-93cad5f5bab1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/man_cook.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,11 +59,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/images" />
       <recent name="$PROJECT_DIR$/src/Module2/Components" />
       <recent name="$PROJECT_DIR$/src/Module1/Intro" />
       <recent name="$PROJECT_DIR$/src/components/ui/SectionWrapper_HoverCard" />
       <recent name="$PROJECT_DIR$/src/components/ui/shadcncomponents" />
-      <recent name="$PROJECT_DIR$/src/components/ui/SectionWrappers" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -99,7 +96,7 @@
       <workItem from="1734050795596" duration="320000" />
       <workItem from="1734051212784" duration="674000" />
       <workItem from="1734051937296" duration="14248000" />
-      <workItem from="1734081828806" duration="613000" />
+      <workItem from="1734081828806" duration="946000" />
     </task>
     <servers />
   </component>
